@@ -1,3 +1,3 @@
 # StackOverFlowDB
 
-![ScreenShot](/blob/master/Vi.png)
+![ScreenShot](Vi.png)
